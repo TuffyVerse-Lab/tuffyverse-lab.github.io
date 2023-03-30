@@ -10,7 +10,7 @@ description: >
 baseurl: ""
 url: "https://tuffyverselab.github.io"
 twitter_username: 
-github_username:  https://github.com/TuffyVerse-Lab
+github_username:  TuffyVerse-Lab
 images_dir: "/images/"
 
 # Build settings
