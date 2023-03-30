@@ -1,71 +1,33 @@
-- name: Dr. Ryan D. Morin
+- name: Dr. Wenlin Han
   is_pi: True
   is_current: True
-  position: Associate Professor
-  orcid:  https://orcid.org/0000-0003-2932-7800
-  scholar: https://scholar.google.ca/citations?user=IDau0mkAAAAJ&hl=en
-  researchgate: https://www.researchgate.net/profile/Ryan_Morin
-  github: https://github.com/rdmorin
-  twitter: https://twitter.com/morinryan
+  position: Associate Professor, Computer Science
+  scholar: https://scholar.google.com/citations?user=EXdwp8gAAAAJ&hl=en
+  researchgate: https://www.researchgate.net/profile/Wenlin-Han
+  github: https://github.com/wenlinhan
+  twitter: 
   bio: >
-    I am in the department of <a href="http://www.sfu.ca/mbb.html">Molecular Biology and Biochemistry</a> at
-    <a href="http://www.sfu.ca">Simon Fraser University</a> and hold a Scientist appointment in the <a href="http://www.bcgsc.ca">BC Cancer Genome Sciences Centre</a>.
-    I completed my MSc and PhD in bioinformatics at UBC in the laboratory of
-    Marco Marra.
-    My early research involved the use of massively parallel
-    sequencing to identify driver mutations in leukemias and lymphomas
-    including histone modifiers such as <a href="https://www.ncbi.nlm.nih.gov/pubmed/20081860">EZH2</a> and <a href="https://www.ncbi.nlm.nih.gov/pubmed/21796119">KMT2D</a>.
-    My current research focus involves using genome and transcriptome
-    sequencing to discover novel drivers in B-cell lymphomas and to
-    determine mechanisms that underlie tumour progression and treatment
-    resistance.
-    I have a general interest in developing methods to identify non-coding
-    mutations with regulatory potential from genome-wide data sets and
-    error-corrected sequencing strategies and algorithms to identify mutations and copy number from circulating
-    tumour DNA (<a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">ctDNA</a>). Dr. Morin is a Scholar of the <a href="https://www.msfhr.org/">Michael Smith Foundation for Health Research</a>.
-
-  photo: team/Morin_headshot_2019.gif
+    Her research interests include Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications.
+  photo: wh.jpg
 
 
-- name: Dr. Laura Hilton
-  is_pi: False
+- name: Dr. Chen Wang
+  is_pi: True
   is_current: True
-  position: Staff Scientist, BC Cancer Centre for Lymphoid Cancer
-  github: https://github.com/lkhilton
-  orcid: https://orcid.org/0000-0002-6413-6586
+  position: Professor, Visual Art
   bio: >
-    B-cell non-Hodgkin lymphomas have a high frequency of driver structural
-    variants, especially those that involve placing the oncogenes MYC, BCL2,
-    BCL6, and CCND1 under the control of potent immunoglobulin enhancers.
-    My project utilizes whole genome and targeted sequencing to characterize
-    these driver SVs across B-NHLs with a goal of understanding the mechanisms
-    by which they arise. I'm also interested in using gene expression and
-    mutation data to facilitate the classification of rare and/or poorly
-    characterized lymphomas, to identify progonostic and predictive biomarkers
-    and targetable vulnerabilities that can be exploited in the development
-    of novel therapies.
-  photo: team/lhilton.jpg
+    Chen Wang (王琛) obtained a Master of Fine Arts degree from University of Iowa. He has taught at Texas Tech University as an Assistant Professor in Communication Design. He is currently a Professor teaching Graphic & Interactive Design at California State University, Fullerton.Chen’s research involves branding, publication, user experience, data visualization, and interface/interactive design. His work has been included in numerous national and international contests and exhibitions. He has been featured in New America Talent 19, 46th Annual International Award Exhibition, The 9th International Biennial of the Poster in Mexico (Mexico), Good 50x70 (Italy), 4 Block: VI International Triennial of Eco Poster (Ukraine), Madrid Gráfica (Spain), Txt + Experiment (Poland), Beijing Design Week (China) and China DataVis Exhibition (China).Chen designed the book “Knott’s Halloween Haunt – A Picture History” by Ted Dougherty. His design projects were published on numerous design books that distributed internationally by top publishers such as Rockport and RotoVision. His photography work has also been awarded and published by several international magazines such as Fotomen, Digital Camera and Capa.
+  photo: Chen_Wang.jpg
 
-- name: Dr. Krysta Coyle
-  is_pi: False
+- name: Dr. Rong Jin
+  is_pi: True
   is_current: True
-  position: Postdoctoral Fellow
-  scholar: https://scholar.google.ca/citations?user=AeVci4cAAAAJ&hl=en
+  position: Assistant Professor, Computer Science
+  scholar: https://scholar.google.com/citations?user=ONLyEOkAAAAJ&hl=en
   github: https://github.com/kmcoyle
-  orcid: http://orcid.org/0000-0002-1309-4873
-  researchgate: https://www.researchgate.net/profile/Krysta_Coyle
-  twitter: https://twitter.com/microbialkrysta
   bio: >
-    My research aims to understand the role of recurrent cis-regulatory
-    mutations in mantle cell lymphoma (MCL).
-    Specifically, I am characterizing a potential role for alternative
-    splicing in the progression of MCL.
-    This work uses a variety of molecular biology tools and bioinformatic
-    approaches to determine how mutations in RNA binding proteins
-    affect in vitro cell behaviour.
-    I am a passionate advocate for equity, diversity, and inclusion and
-    enjoy communicating science to kids and adults alike.
-  photo: team/kcoyle.jpg
+   I am an Assistant Professor in Computer Science at Cal State Fullerton. I am now an affiliated member of the TuffyVerse Lab and the CEDDI Lab. Before that, I received my Ph.D. in Computer Science from the University of Texas at Dallas, where I worked in the Data Communication and Data Management (DCDM) Laboratory led by Prof. Weili Wu and Prof. Ding-Zhu Du. Before then, I was a research assistant working on tele-immersive virtual and simulated collaborative learning environments for learning topics in science in the Multimedia Systems Laboratory led by Prof. Balakrishnan Prabhakaran and the Creative Automata Lab led by Prof. Paul Fishwick. Further before, I received my B.Eng. in Communication Engineering from Nanjing University of Posts & Telecommunications (NUPT), China.
+  photo: Rong_Jin.jpg
 
 
 - name: Prasath Pararajalingam
