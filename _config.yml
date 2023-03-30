@@ -1,17 +1,16 @@
 # Site settings
-title: Translational lymphoma research in the Morin laboratory at Simon Fraser University
-lab_name: Morin Laboratory
+title: A multi-disciplinary Web 3.0 research lab at California State University, Fullerton
+lab_name: TuffyVerse Lab
 author: >
-  Bruno Grande, Ryan Morin and the Morin laboratory
-institution: SFU
-email: rdmorin@sfu.ca
+  Wenlin Han
+institution: California State University, Fullerton
+email: whan@fullerton.edu
 description: >
-  The Morin Laboratory performs cutting-edge lymphoma research using
-  a combination of dry lab and wet lab experiments.
+  A multi-disciplinary Web 3.0 research lab at California State University, Fullerton
 baseurl: ""
-url: "https://morinlab.github.io"
-twitter_username: morinryan
-github_username:  morinlab
+url: "https://tuffyverselab.github.io"
+twitter_username: 
+github_username:  
 images_dir: "/images/"
 
 # Build settings
