@@ -41,20 +41,20 @@
 - name: Mayuri Dhanraj Kumbhare
   is_pi: False
   is_current: True
-  position: Research Associate
+  position: Metaverse
   photo: Mayuri_Dhanraj_Kumbhare.png
   
 - name: Tai Nguyen
   is_pi: False
   is_current: True
-  position: Research Associate
+  position: Metaverse
   photo: Tai_Nguyen.jpg
 
 
 - name: Trieu Nguyen
   is_pi: False
   is_current: True
-  position: MSE Student
+  position: Metaverse
   photo: Trieu_Nguyen.jpg
 
 
