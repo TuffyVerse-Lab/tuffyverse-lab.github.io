@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 toggle: on
-rank: 1
+rank: 2
 ---
 
 <div class="lab-wrapper">
