@@ -33,53 +33,29 @@
 - name: Mayuri Dhanraj Kumbhare
   is_pi: False
   is_current: True
-  position: MS Student
-  photo: Mayuri_Dhanraj_Kumbhare.png
-
-
-- name: Haya Shaalan
-  is_pi: False
-  is_current: True
-  position: MSc Student
-  github: https://github.com/hayashaalan
-  bio: >
-    I work on implementing and improving pipelines for our Genomic Analysis of Mature B-cell Lymphoma project.
-    I’ve taken an interest in incorporating promethION long-read sequencing data into this project to perform various
-    analyses exploring copy number variation, simple somatic mutations, and structural variation patterns. PromethION
-    sequencing has certain advantages over short read sequencing in that it provides a more comprehensive view on
-    structural variant discovery and informs on methylation state. We hope that the addition of promethION data will
-    consolidate previous findings, as well as provide further insight to the genomic landscape of this disease.
-  photo: team/haya.jpg
-
-
-- name: Nicole Thomas
-  is_pi: False
-  is_current: True
-  position: PhD Student
-  github: https://github.com/nthomas11
-  bio: >
-    I completed my Honours Project in the Morin lab, during which I investigated the role of putative enhancers in
-    Mantle Cell Lymphoma. My current role in the lab involves the mining of RNA-Seq data to identify unique gene
-    expression patterns present in Non-Hodgkin’s Lymphoma. Currently, I am using RNA-Seq data, in conjunction with
-    Whole Genome Sequencing data, to identify mutations and single nucleotide polymorphisms that affect the alternative
-    splicing of RNA transcripts.
-  photo: team/nthomas.jpg
-
-- name: Dr. Kostiantyn Dreval
-  is_pi: False
-  is_current: True
-  github: https://github.com/kdreval
   position: Research Associate
-  bio: >
-    I obtained PhD in 2014, following which I received comprehensive training at FDA-NCTR and University of New Mexico.
-    During my career, I conducted original research in the area of cancer epigenomics and transcriptomics. While
-    performing basic research in cancer biology and epigenetics, I became passionate about scientific discoveries
-    in the area of bioinformatics and computational biology. In the Morin lab, I am applying a variety of bioinformatics
-    tools to uncover genomic features of Burkitt lymphoma, a form of aggressive B-cell non-Hodgkin lymphoma. Specifically,
-    my research is focused on comparing the genomic and molecular characteristics of adult and pediatric BL, Epstein-Barr
-    virus (EBV) positive and negative BL, as well as endemic and sporadic cases, which will allow better diagnosis approaches
-    and will ultimately facilitate development of more effective treatment strategies.
-  photo: team/kdreval.jpg
+  photo: Mayuri_Dhanraj_Kumbhare.png
+  
+- name: Tai Nguyen
+  is_pi: False
+  is_current: True
+  position: Research Associate
+  photo: Tai_Nguyen.jpg
+
+
+- name: Trieu Nguyen
+  is_pi: False
+  is_current: True
+  position: MSE Student
+  photo: Trieu_Nguyen.jpg
+
+
+- name: Parva Parikh
+  is_pi: False
+  is_current: True
+  position: MS Student
+  photo: Parva_Parikh.jpg
+
 
 - name: Kristena Daley
   is_pi: False
