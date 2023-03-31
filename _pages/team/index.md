@@ -19,7 +19,7 @@ rank: 1
     <!-- Current non-PIs -->
     {% for member in site.data.team %}
         {% if member.is_current and member.is_pi == false %}
-            {% if member.name and member.bio %}
+            {% if member.name %}
                 {% include member.html %}
             {% endif %}
         {% endif %}
@@ -30,7 +30,7 @@ rank: 1
         <h1 class="post-title">Alumni</h1>
         {% for member in site.data.team %}
             {% if member.is_current == false %}
-                {% if member.name and member.bio %}
+                {% if member.name %}
                     {% include member.html %}
                 {% endif %}
             {% endif %}
