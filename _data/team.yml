@@ -30,18 +30,11 @@
   photo: Rong_Jin.jpg
 
 
-- name: Prasath Pararajalingam
+- name: Mayuri Dhanraj Kumbhare
   is_pi: False
   is_current: True
-  position: PhD Student
-  github: https://github.com/ppararaj
-  bio: >
-    My PhD project has me exploring the molecular aetiology of mantle
-    cell lymphoma (MCL) using a combination of data types and a variety of bioinformatic
-    techniques. My analysis of the mutational landscape of MCL has
-    revealed an enrichment of mutations in splicing factors and RNA-binding proteins. Currently,
-    I am investigating deregulation of non-coding elements using a large dataset of WGS and RNA-seq MCL tumours.
-  photo: team/ppararajalingam.jpg
+  position: MS Student
+  photo: Mayuri_Dhanraj_Kumbhare.png
 
 
 - name: Haya Shaalan
