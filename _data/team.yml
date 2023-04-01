@@ -5,7 +5,7 @@
   scholar: https://scholar.google.com/citations?user=EXdwp8gAAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Wenlin-Han
   github: https://github.com/wenlinhan
-  twitter: 
+  website: https://wenlinhan.github.io/
   bio: >
     Wenlin Han is an associate professor (tenured), with the Department of Computer Science, California State University, Fullerton, USA. 
     She received her Ph.D. and MS degree in the Department of computer science, The University of Alabama, and MS and BS degree in the Department of Computer Science, Central China Normal University, China. 
@@ -19,6 +19,7 @@
   is_pi: True
   is_current: True
   position: Professor, Visual Art
+  website: https://www.chenwangdesign.com/
   bio: >
     Chen Wang (王琛) obtained a Master of Fine Arts degree from University of Iowa. 
     He has taught at Texas Tech University as an Assistant Professor in Communication Design. 
@@ -34,6 +35,7 @@
   is_current: True
   position: Assistant Professor, Computer Science
   scholar: https://scholar.google.com/citations?user=ONLyEOkAAAAJ&hl=en
+  website: https://rongjincsuf.github.io/
   bio: >
    I am an Assistant Professor in Computer Science at Cal State Fullerton. 
    I am now an affiliated member of the TuffyVerse Lab and the CEDDI Lab. Before that, I received my Ph.D. in Computer Science from the University of Texas at Dallas, where I worked in the Data Communication and Data Management (DCDM) Laboratory led by Prof. Weili Wu and Prof. Ding-Zhu Du. 
