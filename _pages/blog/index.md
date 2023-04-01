@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Blog
+title: Award
 permalink: /blog/
-toggle: off
-rank: 5
+toggle: on
+rank: 3
 ---
 
 <ul class="post-list">
